@@ -1,4 +1,7 @@
-body {
-    background-color: cadetblue;
+html, body {
+    height: 100%;
+    background-image: linear-gradient(#026873, #03A688);
     text-align: center;
+    color: #F2668B;
+    text-shadow: 2px 2px 1px #011F26;
 }
